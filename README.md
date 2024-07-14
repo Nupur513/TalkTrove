@@ -49,8 +49,7 @@ This project implements a real-time chat application using the MERN stack. It in
 - **MongoDB**: A NoSQL database for storing user data and messages.
 - **Socket.io**: A library for real-time web applications.
 
-### State Management
-- **Zustand**: A small, fast state-management solution.
+
 
 ### Authentication
 - **JWT (JSON Web Tokens)**: For secure authentication and authorization.
