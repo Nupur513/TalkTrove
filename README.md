@@ -15,8 +15,6 @@ This project implements a real-time chat application using the MERN stack. It in
 ### Online User Status
 - Real-time online status updates are implemented using Socket.io and React Context, allowing users to see who is online.
 
-### Global State Management
-- Efficient state management is achieved using Zustand, ensuring a responsive and smooth user experience.
 
 ### Error Handling
 - Comprehensive error handling on both the server and client sides to ensure robustness and reliability.
